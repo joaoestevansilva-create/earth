@@ -1,0 +1,13 @@
+.dark{
+background:#121212;
+color:white;
+}
+
+.dark .card{
+background:#1f1f1f;
+color:white;
+}
+
+.dark .table{
+color:white;
+}
